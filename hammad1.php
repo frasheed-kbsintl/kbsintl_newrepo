@@ -20,4 +20,4 @@ if(php_sapi_name() == "cli"){
 }
 require_once ("../classes/framework/NGS.class.php");
 $dispatcher = new ngs\framework\Dispatcher();
-ddddddd
+hammad hammad
